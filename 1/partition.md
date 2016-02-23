@@ -24,11 +24,18 @@ public class GridPartition {
     protected Dictionary <GameObject, GridElement> objectMap;
     
     public void AddObject(GameObject object) {
-        int xPos = TODO
-        int yPos = TODO
+        int xPos = object.position.x / gameGrid.Length;
+        int yPos = object.position.y / gameGrid[0].Length;
         
         objectMap.Add(object, gameGrid[xPos][yPos]);
         gameGrid[xPos][yPos].objects.Add(object);
+    }
+    
+    public void RemoveObject(GameObject object) {
+        if (objectMap.ContainsKey(object)) {
+            objectMap[object].objects.Remove(object);
+            objectMap.Remove(object);
+        }
     }
 }
 ```
