@@ -10,7 +10,7 @@ interface SpatialPartition {
     
     public List<GameObject> GetObjects(Camera camera);
     public List<GameObject> GetObjects(Sphere sphere);
-    public List<GameObject> GertObjects(AABB aabb);
+    public List<GameObject> GetObjects(AABB aabb);
 }
 ```
 
@@ -59,14 +59,16 @@ public class GridPartition : SpatialPartition {
     }
     
     public List<GameObject> GetObjects(Camera camera) {
-    
+        AABB cameraAABB = camera.GetAABB();
+        cameraAABB.Expand(5, 5, 5);
+        return GetObjects(cameraAABB);
     }
     
     public List<GameObject> GetObjects(Sphere sphere) {
     
     }
     
-    public List<GameObject> GertObjects(AABB aabb) {
+    public List<GameObject> GetObjects(AABB aabb) {
     
     }
 }
