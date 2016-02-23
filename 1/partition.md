@@ -57,5 +57,9 @@ public class GridPartition : SpatialPartition {
         }
         return null;
     }
+    
+    public List<GameObject> GetObjects(Camera camera);
+    public List<GameObject> GetObjects(Sphere sphere);
+    public List<GameObject> GertObjects(AABB aabb);
 }
 ```
