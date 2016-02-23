@@ -19,6 +19,7 @@ public class GridPartition {
     
     }
     
+    protected GridElement[][] gameGrid;
     protected Dictionary <GameObject, GridElement> objectMap;
     
     public void AddObject(GameObject object) {
