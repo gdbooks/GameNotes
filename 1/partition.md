@@ -39,7 +39,14 @@ public class GridPartition : SpatialPartition {
     }
     
     public void UpdateObject(GameObject object) {
-    
+        if (objectMap.ContainsKey(object)) {
+            objectMap[object].objects.Remove(object);
+            
+            int xPos = object.position.x / gameGrid.Length;
+            int yPos = object.position.y / gameGrid[0].Length;
+            
+            gameGrid[xPos][yPos].objects.Add(object);
+        }
     }
 
 }
