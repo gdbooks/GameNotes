@@ -16,14 +16,18 @@ interface SpatialPartition {
 ```cs
 public class GridPartition {
     protected class GridElement {
-    
+        List<GameObject> objects;
     }
     
     protected GridElement[][] gameGrid;
     protected Dictionary <GameObject, GridElement> objectMap;
     
     public void AddObject(GameObject object) {
-        objectMap.Add(object, 
+        int xPos = TODO
+        int yPos = TODO
+        
+        objectMap.Add(object, gameGrid[xPos][yPos]);
+        gameGrid[xPos][yPos].objects.Add(object);
     }
 }
 ```
