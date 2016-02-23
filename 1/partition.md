@@ -37,5 +37,8 @@ public class GridPartition {
             objectMap.Remove(object);
         }
     }
+    
+        public void UpdateObject(GameObject object);
+
 }
 ```
