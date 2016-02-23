@@ -38,7 +38,9 @@ public class GridPartition {
         }
     }
     
-        public void UpdateObject(GameObject object);
+    public void UpdateObject(GameObject object) {
+    
+    }
 
 }
 ```
