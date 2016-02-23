@@ -48,6 +48,14 @@ public class GridPartition : SpatialPartition {
             gameGrid[xPos][yPos].objects.Add(object);
         }
     }
-
+    
+    public GameObject FindObject(string name) {
+        foreach(KeyValuePair<GameObject, GridElement> kvp in objectMap) {
+            if (kvp.Key.name == name) {
+                return kvp.Key;
+            }
+        }
+        return null;
+    }
 }
 ```
