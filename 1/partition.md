@@ -15,7 +15,7 @@ interface SpatialPartition {
 ```
 
 ```cs
-public class GridPartition {
+public class GridPartition : SpatialPartition{
     protected class GridElement {
         List<GameObject> objects;
     }
