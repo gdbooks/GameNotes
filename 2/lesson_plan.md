@@ -4,3 +4,5 @@
 * Networking
 * Modern OpenGL
 * Animation
+
+1/6 DONE!
