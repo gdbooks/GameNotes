@@ -1,11 +1,11 @@
 * __Done__ Basic OpenGL
 * __Done__ Collisions
-* AI
+* __WIP__ AI
 * Networking
 * Modern OpenGL
 * Animation
 
-1/6 DONE!
+2 / 6 DONE!
 
 Unity projects
 
