@@ -47,3 +47,6 @@ fruit ninja
 DArk Quest
 skii safari
 giant boulder of death
+Hay Day
+Monoment Valley
+Crazy Taxo
