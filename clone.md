@@ -52,3 +52,6 @@ Monoment Valley
 Crazy Taxi
 Hitman go
 Lara croft go
+Attack the light 
+dont starve
+tiny titans
