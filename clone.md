@@ -57,3 +57,5 @@ dont starve
 tiny titans
 smash island
 tiny tower
+Spin up
+Hero Academy
