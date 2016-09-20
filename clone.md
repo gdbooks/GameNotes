@@ -43,3 +43,4 @@ clash of clans
 clash royale
 dungelot
 pixel defenders puzzle
+fruit ninja
