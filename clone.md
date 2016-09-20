@@ -44,3 +44,6 @@ clash royale
 dungelot
 pixel defenders puzzle
 fruit ninja
+DArk Quest
+skii safari
+giant boulder of death
