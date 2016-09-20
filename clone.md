@@ -32,3 +32,5 @@ Monkey Shorts
 Dwarf Quest
 Dungeon Village
 Plic Plic
+Some kind of virtual pet sim
+Eyelord
