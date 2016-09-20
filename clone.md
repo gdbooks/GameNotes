@@ -34,3 +34,7 @@ Dungeon Village
 Plic Plic
 Some kind of virtual pet sim
 Eyelord
+Devils Attorney
+100000000
+bejewled
+puzzle and dragons
