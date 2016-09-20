@@ -41,3 +41,5 @@ puzzle and dragons
 dungeon raid
 clash of clans
 clash royale
+dungelot
+pixel defenders puzzle
