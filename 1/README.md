@@ -1,1 +1,1 @@
-sorry to pester you. I see lisa blocked me. can ya just pass on whenever u feel like it that im always here if she ever decideds she wants to talk again. sorry for random text out of no where, and thanx for your time. take care both of you please
+
