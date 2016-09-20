@@ -38,3 +38,6 @@ Devils Attorney
 100000000
 bejewled
 puzzle and dragons
+dungeon raid
+clash of clans
+clash royale
