@@ -50,3 +50,5 @@ giant boulder of death
 Hay Day
 Monoment Valley
 Crazy Taxi
+Hitman go
+Lara croft go
