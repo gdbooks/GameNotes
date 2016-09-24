@@ -11,3 +11,7 @@
   * Articulated - ???
   * Hard skinned - Milkshape
   * Soft skinned - MD5 
+* Implementing keyframe based animations 
+  * And an animator window, a-la unity
+* Dual quaternion rotation
+* Animation Bending   
