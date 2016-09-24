@@ -1,5 +1,7 @@
 #Animation
 
+It would be pretty easy to fill a book up with the topic of animation
+
 * Introduction to math
 * Building a renderer
 * Vertex Animation (faces)
