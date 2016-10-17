@@ -1,0 +1,2 @@
+# Elevator Pitch
+The premise of this project is to clone the [Brand New Quest: The Forsaken Dungeon](https://www.youtube.com/watch?v=nYcI5KDXGK4) game included on the disk of [Ehrgeiz](https://en.wikipedia.org/wiki/Ehrgeiz). We adopt the game to touch / tv controls using a control scheme similar to [Dwarf Quest](https://itunes.apple.com/us/app/dwarf-quest/id493258881?mt=8) ([link](http://www.dwarfquestgame.com/), [link](http://toucharcade.com/2012/09/05/dwarf-quest-review/), [link](https://www.youtube.com/watch?v=lZIFPRR5LKA)).
