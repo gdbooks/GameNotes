@@ -12,3 +12,7 @@
   * [Animation](books/animation.md)
   * [Data Structures](books/datastructures.md)
   * [Shadows](books/shadows.md) 
+  * [Scripting Language](books/scripting.md)
+  * [Learning Angel Script](books/angel_script.md)
+* [Blog Ideas](blog_ideas.md)
+  * 
