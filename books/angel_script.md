@@ -1,0 +1,1 @@
+Much like the lua introduction book, except for AngelScript
