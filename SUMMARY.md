@@ -15,5 +15,6 @@
   * [Scripting Language](books/scripting.md)
   * [Learning Angel Script](books/angel_script.md)
   * [GUI Systems](books/gui.md)
+  * [Lua / Tile games](books/lua.md)
 * [Blog Ideas](blog_ideas.md)
   * 
