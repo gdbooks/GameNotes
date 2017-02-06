@@ -17,5 +17,6 @@
   * [GUI Systems](books/gui.md)
   * [Lua / Tile games](books/lua.md)
   * [Lisa book](books/lisa_pixel.md)
+  * [Rebuild Box 2D](books/box2d.md)
 * [Blog Ideas](blog_ideas.md)
   * 
