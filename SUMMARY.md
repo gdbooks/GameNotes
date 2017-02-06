@@ -14,5 +14,6 @@
   * [Shadows](books/shadows.md) 
   * [Scripting Language](books/scripting.md)
   * [Learning Angel Script](books/angel_script.md)
+  * [GUI Systems](books/gui.md)
 * [Blog Ideas](blog_ideas.md)
   * 
