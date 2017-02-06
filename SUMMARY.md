@@ -16,5 +16,6 @@
   * [Learning Angel Script](books/angel_script.md)
   * [GUI Systems](books/gui.md)
   * [Lua / Tile games](books/lua.md)
+  * [Lisa book](books/lisa_pixel.md)
 * [Blog Ideas](blog_ideas.md)
   * 
