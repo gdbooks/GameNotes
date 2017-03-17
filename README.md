@@ -1,4 +1,4 @@
 # Software I Want to Build
 
 * Gitbook Clone for easy markdown editing
-* Photoshop lite
+* Photoshop lite - TIPs (This Is Not Photosshop)
