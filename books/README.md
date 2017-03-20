@@ -5,6 +5,7 @@ These are future books that i think need to be written, and my reasoning behind 
 Order
 
 1. Physics
+  * DONE 
 2. Tiles
   * Love2D & LUA
 3. Linux
