@@ -18,6 +18,9 @@
 * Chain matcher game
 * Tower clicker game
 * Lightbot clone
+* Dungelot
+* Crash royale
+* Hero Academy
 
 # Software
 
