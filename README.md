@@ -1,6 +1,6 @@
 # Tech
 
-* ~~Unity~~
+* Unity
 * Unreal
 * Irrlight
 * Cocos 2dx
