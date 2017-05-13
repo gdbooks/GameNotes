@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [From Urho](urho.md)
 * [Clone Academy](clone.md)
-* [Basic Games](basic.md)
 * [Books](books/README.md)
    * [Animation](books/animation.md)
    * [Data Structures](books/datastructures.md)
