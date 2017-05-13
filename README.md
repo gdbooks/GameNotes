@@ -21,6 +21,8 @@
 * Dungelot
 * Crash royale
 * Hero Academy
+* Canabalt
+* Temple Run
 
 # Software
 
